@@ -1,0 +1,22 @@
+{
+    "version": "0.4.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/jorgemuza/orbit/releases/download/v0.4.0/orbit_0.4.0_windows_amd64.zip",
+            "bin": [
+                "orbit.exe"
+            ],
+            "hash": "7554f20b119663c8782751084e04046048fd17073d52205c8ec701f1360aae2a"
+        },
+        "arm64": {
+            "url": "https://github.com/jorgemuza/orbit/releases/download/v0.4.0/orbit_0.4.0_windows_arm64.zip",
+            "bin": [
+                "orbit.exe"
+            ],
+            "hash": "ee38f32004410807cbfb7bd1f7796a7427281bbafd875e54f27c1856e6a1e3fb"
+        }
+    },
+    "homepage": "https://github.com/jorgemuza/orbit",
+    "license": "MIT",
+    "description": "CLI for managing connections to development lifecycle services"
+}
