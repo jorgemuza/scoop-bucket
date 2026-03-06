@@ -1,19 +1,19 @@
 {
-    "version": "0.2.0",
+    "version": "0.3.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/jorgemuza/aidlc-cli/releases/download/v0.2.0/aidlc_0.2.0_windows_amd64.zip",
+            "url": "https://github.com/jorgemuza/aidlc-cli/releases/download/v0.3.0/aidlc_0.3.0_windows_amd64.zip",
             "bin": [
                 "aidlc.exe"
             ],
-            "hash": "c933c6d93c8be0ed20e9831c7d9bd89d10b299a5b9184383aa7cedce2125c115"
+            "hash": "775692ab4f7ab7276cd2ad64786b9106d6aa8f8f6d5e218c0833e1b30e7746ff"
         },
         "arm64": {
-            "url": "https://github.com/jorgemuza/aidlc-cli/releases/download/v0.2.0/aidlc_0.2.0_windows_arm64.zip",
+            "url": "https://github.com/jorgemuza/aidlc-cli/releases/download/v0.3.0/aidlc_0.3.0_windows_arm64.zip",
             "bin": [
                 "aidlc.exe"
             ],
-            "hash": "69ad50433fca7bd2861a25bbbef858726e25cc4be28661533b906da846b7affa"
+            "hash": "5ee04fa8bf7f7080bfad2f2a6cfaffe5c45a7ca96b2342a332b57ecdb88b471c"
         }
     },
     "homepage": "https://github.com/jorgemuza/aidlc-cli",
