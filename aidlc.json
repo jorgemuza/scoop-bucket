@@ -1,0 +1,22 @@
+{
+    "version": "0.2.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/jorgemuza/aidlc-cli/releases/download/v0.2.0/aidlc_0.2.0_windows_amd64.zip",
+            "bin": [
+                "aidlc.exe"
+            ],
+            "hash": "c933c6d93c8be0ed20e9831c7d9bd89d10b299a5b9184383aa7cedce2125c115"
+        },
+        "arm64": {
+            "url": "https://github.com/jorgemuza/aidlc-cli/releases/download/v0.2.0/aidlc_0.2.0_windows_arm64.zip",
+            "bin": [
+                "aidlc.exe"
+            ],
+            "hash": "69ad50433fca7bd2861a25bbbef858726e25cc4be28661533b906da846b7affa"
+        }
+    },
+    "homepage": "https://github.com/jorgemuza/aidlc-cli",
+    "license": "MIT",
+    "description": "CLI for managing connections to development lifecycle services"
+}
