@@ -6,14 +6,14 @@
             "bin": [
                 "orbit.exe"
             ],
-            "hash": "28cf05403d531e50c7dfc76e76faeec7eb210317361f4c1e6932d0772200df04"
+            "hash": "cb64f6a2697f0727997dab8836b1846bbe344be199598c6a9589dc9f3a808755"
         },
         "arm64": {
             "url": "https://github.com/jorgemuza/orbit/releases/download/v0.20.0/orbit_0.20.0_windows_arm64.zip",
             "bin": [
                 "orbit.exe"
             ],
-            "hash": "3f974291d40510c3b1081000a5b91906da2e1820122b529d87e6c79becff433f"
+            "hash": "92717bb4d16a5c62e7944fedea3adfe91d3e29c957cd17d91b48e12e0b3615de"
         }
     },
     "homepage": "https://github.com/jorgemuza/orbit",
