@@ -1,0 +1,22 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/jorgemuza/docverter/releases/download/v0.1.0/docverter_0.1.0_windows_amd64.zip",
+            "bin": [
+                "docverter.exe"
+            ],
+            "hash": "e96aedd088911ae88244c63a62b2ba66b9cb55970543b976b0557c66a43019c3"
+        },
+        "arm64": {
+            "url": "https://github.com/jorgemuza/docverter/releases/download/v0.1.0/docverter_0.1.0_windows_arm64.zip",
+            "bin": [
+                "docverter.exe"
+            ],
+            "hash": "885c41930d4ad7a09f657e41d31bc640a05edfcede35e0992b0160c363acfd8e"
+        }
+    },
+    "homepage": "https://github.com/jorgemuza/docverter",
+    "license": "MIT",
+    "description": "Unified document converter — Markdown to DOCX/PDF, Excalidraw to SVG/PNG"
+}
