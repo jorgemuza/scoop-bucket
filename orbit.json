@@ -1,19 +1,19 @@
 {
-    "version": "0.30.1",
+    "version": "0.30.2",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/jorgemuza/orbit/releases/download/v0.30.1/orbit_0.30.1_windows_amd64.zip",
+            "url": "https://github.com/jorgemuza/orbit/releases/download/v0.30.2/orbit_0.30.2_windows_amd64.zip",
             "bin": [
                 "orbit.exe"
             ],
-            "hash": "4cf592c8c3fe2c61dec69d7c6cfcb974331488659fe7babb1d1854f19a071609"
+            "hash": "ffcc8389b03419171dc6401cd8ae5f0cb023f3f1ff26d6c051f66c3c29b5af7d"
         },
         "arm64": {
-            "url": "https://github.com/jorgemuza/orbit/releases/download/v0.30.1/orbit_0.30.1_windows_arm64.zip",
+            "url": "https://github.com/jorgemuza/orbit/releases/download/v0.30.2/orbit_0.30.2_windows_arm64.zip",
             "bin": [
                 "orbit.exe"
             ],
-            "hash": "8f942ddc6b68a58d6ee6b6c05a163dff41b634ff0219b100f57ed6b5fe0d43e8"
+            "hash": "2e720598604910e5ac187255d733515cf31c8c8f2855769a0b731b24c3c4c251"
         }
     },
     "homepage": "https://github.com/jorgemuza/orbit",
