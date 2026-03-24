@@ -1,19 +1,19 @@
 {
-    "version": "0.2.0",
+    "version": "0.3.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/jorgemuza/docverter/releases/download/v0.2.0/docverter_0.2.0_windows_amd64.zip",
+            "url": "https://github.com/jorgemuza/docverter/releases/download/v0.3.0/docverter_0.3.0_windows_amd64.zip",
             "bin": [
                 "docverter.exe"
             ],
-            "hash": "9238cccd45de8b8b7beb83a84f0521e1e45067d488821df362f676f991f0a831"
+            "hash": "495cd22f99683ea8c4f1c2107e928b7c0a2410ee0f56b94a4f9ff15e770093a2"
         },
         "arm64": {
-            "url": "https://github.com/jorgemuza/docverter/releases/download/v0.2.0/docverter_0.2.0_windows_arm64.zip",
+            "url": "https://github.com/jorgemuza/docverter/releases/download/v0.3.0/docverter_0.3.0_windows_arm64.zip",
             "bin": [
                 "docverter.exe"
             ],
-            "hash": "21fe861bd0ae047892804d136e99c9b78914eb4139edc48094a4f91dd79a3479"
+            "hash": "ec47dfe96739e6b47a39e19bd9dc698e086a831536d97949d855fc60e69613c6"
         }
     },
     "homepage": "https://github.com/jorgemuza/docverter",
